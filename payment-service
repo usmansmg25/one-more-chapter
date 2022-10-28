@@ -1,8 +1,0 @@
-STRIPE_PUBLIC_KEY=pk_test_51LvB0WSHkv8rkelm6QqcPJXNjZPTMrLuvHKTWbb6TzMCaNIk1StMo2REouu1wgntgblqvawt1P6zU0TkTt8Mzatr00GCsi8d6y
-STRIPE_SECRET_KEY=sk_test_51LvB0WSHkv8rkelmcNCjWyS7KzLWAzgaaaglGgkADlzggUvp12u3pZIflzMam27EYO2MWFZ2Q80wUDZsWHZXR0AQ00T7QBBp10
-
-spring.mvc.pathmatch.matching-strategy=ANT_PATH_MATCHER
-
-
-eureka.client.serviceUrl.defaultZone  = http://localhost:8761/eureka
-spring.application.name = payment-service
