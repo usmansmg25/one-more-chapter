@@ -6,6 +6,6 @@ spring.mail.properties.mail.smtp.auth=true
 spring.mail.properties.mail.smtp.starttls.enable=true
 
 
-#Eureka Client
+
 eureka.client.serviceUrl.defaultZone  = http://localhost:8761/eureka
 spring.application.name = email-service
