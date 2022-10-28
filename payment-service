@@ -3,6 +3,6 @@ STRIPE_SECRET_KEY=sk_test_51LvB0WSHkv8rkelmcNCjWyS7KzLWAzgaaaglGgkADlzggUvp12u3p
 
 spring.mvc.pathmatch.matching-strategy=ANT_PATH_MATCHER
 
-#Eureka Client
+
 eureka.client.serviceUrl.defaultZone  = http://localhost:8761/eureka
 spring.application.name = payment-service
